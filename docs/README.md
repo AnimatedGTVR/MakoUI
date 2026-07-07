@@ -1,6 +1,6 @@
 MakoUI
 =====
-
+**For the original project, see: https://github.com/ocornut/imgui**
 ----
 
 MakoUI is a **lightweight graphical user interface library for MAKO**, built as a fork of Dear ImGui.
