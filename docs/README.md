@@ -1,7 +1,29 @@
-Dear ImGui
+MakoUI
 =====
 
-<center><b><i>"Give someone state and they'll have a bug one day, but teach them how to represent state in two separate locations that have to be kept in sync and they'll have bugs for a lifetime."</i></b></center> <a href="https://twitter.com/rygorous/status/1507178315886444544">-ryg</a>
+----
+
+MakoUI is a **lightweight graphical user interface library for MAKO**, built as a fork of Dear ImGui.
+
+MakoUI keeps the immediate-mode GUI style of Dear ImGui while focusing on clean MAKO integration, simple tool panels, editor interfaces, debugging windows, and app UI experiments.
+
+The goal of MakoUI is to make GUI development feel natural inside MAKO while still keeping the speed, portability, and low-overhead design that makes ImGui useful for real-time tools.
+
+### The Pitch
+
+MakoUI is a **lightweight GUI layer for MAKO**. It is based on Dear ImGui and is designed for fast iteration, simple tool creation, debug panels, visualization tools, and small app interfaces.
+
+MakoUI is not meant to replace every traditional desktop UI toolkit. It is focused on developer tools, runtime panels, engine tools, editor interfaces, and quick interfaces that are easy to build and easy to change.
+
+MakoUI is designed to:
+
+- Keep GUI code simple.
+- Minimize state synchronization.
+- Reduce UI boilerplate.
+- Make tool windows fast to create.
+- Work well for editors, debug panels, and visualization tools.
+- Stay lightweight and easy to integrate.
+- Fit naturally into MAKO projects.
 
 ----
 
